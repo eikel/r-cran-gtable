@@ -1,0 +1,13 @@
+Source: r-cran-gtable
+Section: gnu-r
+Priority: optional
+Maintainer: Benjamin Eikel <debian@eikel.org>
+Build-Depends: debhelper (>= 8.0.0), cdbs, r-base-dev (>= 2.10.0)
+Standards-Version: 3.9.3
+Homepage: http://cran.r-project.org/web/packages/gtable/index.html
+
+Package: r-cran-gtable
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ${R:Depends}
+Description: Arrange grobs in tables
+ Tools to make it easier to work with "tables" of grobs.

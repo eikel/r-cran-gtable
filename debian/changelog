@@ -1,0 +1,5 @@
+r-cran-gtable (0.1.2-1) UNRELEASED; urgency=low
+
+  * Initial release. (Closes: #XXXXXX)
+
+ -- Benjamin Eikel <debian@eikel.org>  Mon, 18 Feb 2013 16:07:03 +0100
